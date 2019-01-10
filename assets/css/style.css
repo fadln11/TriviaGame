@@ -1,0 +1,9 @@
+#options {
+  display: inline-block;
+  vertical-align: middle
+}
+
+.timer-style {
+  font-size: 40px;
+  color: blue;
+}
